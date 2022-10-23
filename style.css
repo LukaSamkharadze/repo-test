@@ -1,0 +1,37 @@
+
+
+.main {
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top: 8px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-style:dotted;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+  
+}
+
+.Click {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding-top: 7px;
+    display: inline-block;
+    border-right: 4px dotted blue;
+    justify-content:space-between;
+    float:right;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px;
+    padding-bottom: 20px;
+}
+.div1 {
+    justify-content:space-between;
+    text-align: left;
+    position: relative;
+    
+}
